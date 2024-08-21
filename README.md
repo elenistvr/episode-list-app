@@ -36,6 +36,10 @@ This is a Vite-powered React application.
    ```bash
    yarn install
    ```
+4. Create a `.env` file in the root directory that has the OMDb apikey you provided in the assignment description for the second endpoint
+   ```bash
+   VITE_OMDB_API_KEY=apikey
+   ```
 
 ## Running the Project
 
